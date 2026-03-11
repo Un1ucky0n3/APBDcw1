@@ -1,0 +1,1 @@
+"pierwsze elo zelo" 
