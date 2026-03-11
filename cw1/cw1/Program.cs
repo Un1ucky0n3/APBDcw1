@@ -22,4 +22,3 @@ static double CalculateMin(double x, double y)
 {
     return Math.Min(x, y);
 }
-Console.WriteLine("Calculate Min Created!!!");
