@@ -18,3 +18,7 @@ Console.WriteLine("Git test?");
 Console.WriteLine("Git test is going good");
 
 Console.WriteLine("Creating CalculateMin!!!");
+static double CalculateMin(double x, double y)
+{
+    return Math.Min(x, y);
+}
