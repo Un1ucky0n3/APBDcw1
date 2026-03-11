@@ -15,3 +15,5 @@ static double CalculateMax(double x, double y)
 
 Console.WriteLine("CalcualteMax Created!!!");
 Console.WriteLine("Git test?");
+
+Console.WriteLine("Creating CalculateMin!!!");
