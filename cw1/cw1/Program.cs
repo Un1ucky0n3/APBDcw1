@@ -7,3 +7,8 @@ Console.WriteLine("Is it ok?");
 Console.WriteLine("It is ok thank you");
 
 Console.WriteLine("Creating CalculateMax!!!");
+
+static double CalculateMax(double x, double y)
+{
+    return Math.Max(x, y);
+}
