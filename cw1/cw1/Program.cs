@@ -12,3 +12,5 @@ static double CalculateMax(double x, double y)
 {
     return Math.Max(x, y);
 }
+
+Console.WriteLine("CalcualteMax Created!!!");
